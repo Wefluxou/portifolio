@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]([https://photos.app.goo.gl/a5u6SaCoRMGGo8yy6](https://a.imagem.app/obzHBG.png)](https://a.imagem.app/obzHBG.th.png](https://a.imagem.app/obzHBG.md.png))
+![image](https://a.imagem.app/obzHBG.md.png)
 
 ## Ferramentas utilizadas:
 
