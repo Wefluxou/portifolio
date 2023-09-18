@@ -1,4 +1,3 @@
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +16,3 @@
 ### Bruno Dos Santos
 
 ### Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
-
-```
